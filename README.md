@@ -34,7 +34,7 @@ This tool requires:
     touch parameters.ini
     ```
 
-- Open `parameters.ini` and add the following line and replace the value with your API KEY:
+- Open `parameters.ini` and add the following line (replace the value with your API KEY):
 
     ```shell
     api_key = "REPLACE_WITH_YOUR_API_KEY"
@@ -42,7 +42,7 @@ This tool requires:
 
 ### Usage
 
-- Navigate to the `/bin` directory, and execute the `sign.php` file.
+- Navigate to the `/bin` directory, and execute `sign.php` with the arguments shown bellow:
 
     ```shell
     php sign.php [name of signer] [email of signer] [full_file_path to file you want to sign]
