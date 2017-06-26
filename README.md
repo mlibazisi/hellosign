@@ -26,7 +26,7 @@ This tool requires:
 
 ### Configuration
 
-- Its not necessary to edit `/config/config.php`, but you are free to do so
+- Its not necessary to edit `/config/config.ini`, but you are free to do so
 
 - Navigate to `/config` and create a `parameters.ini` file
 
