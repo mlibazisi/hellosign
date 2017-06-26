@@ -1,0 +1,13 @@
+{
+  "autoload": {
+    "psr-4": {
+      "": "src/"
+    }
+  },
+  "require": {
+    "php": ">=5.5.0",
+    "phpunit/phpunit": "3.7.*",
+    "hellosign/hellosign-php-sdk": "3.*@dev",
+    "symfony/validator": "~2.6"
+  }
+}

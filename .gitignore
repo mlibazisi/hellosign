@@ -1,0 +1,6 @@
+.idea
+/logs/*
+/vendor/*
+!vendor/.keep.txt
+!logs/.keep.txt
+/config/parameters.ini
