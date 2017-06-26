@@ -21,7 +21,7 @@ This tool requires:
 - Navigate to the `/bin dir` and make sure that `sign.php` is executable
 
     ```shell
-    chmod +x sign.php
+    sudo chmod a+x sign.php
     ```
 
 ### Configuration
