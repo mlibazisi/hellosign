@@ -18,7 +18,7 @@ This tool requires:
     composer install
     ```
 
-- Navigate to the `/bin dir` and make sure that `sign.php` is executable
+- Navigate to the `/bin` dir and make sure that `sign.php` is executable
 
     ```shell
     sudo chmod a+x sign.php
