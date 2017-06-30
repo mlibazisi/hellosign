@@ -1,6 +1,6 @@
 Signer
 =======================
-A hellosign.com coding exercise, completed by Mlibazisi Prince Mabandla
+A client for submitting signature requests via the hellosign.com API
 
 ### Requirements
 
